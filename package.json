@@ -1,4 +1,7 @@
 {
+   "name": "gulp-requirejs-optimize",
+   "version": "1.3.0",
+   "description": "RequireJS optimizer plugin for gulp",
     "volo": {
         "url": "https://raw.github.com/requirejs/r.js/{version}/dist/r.js"
     }
